@@ -4,8 +4,4 @@
 - 💞️ I’m looking to collaborate on like web development, database management and data structures.
 - 📫 How to reach me out Jsingh46r@gmail.com.
 
-🌐 Socials:
-Facebook Instagram LinkedIn YouTube<!---
-Jay46R/Jay46R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
