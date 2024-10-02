@@ -1,3 +1,4 @@
+![github](https://github.com/user-attachments/assets/0b3ff049-4dc2-471a-ba97-c2eb10f26c78)
 - 👋 Hi, I’m @Jay Singh.
 - 👀 I’m interested in computer Engineering .
 - 🌱 I’m currently learning .
