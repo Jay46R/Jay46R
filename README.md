@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/ae26dc17-efa6-4ea7-b43c-f4df8a4af58f)
+![github](https://github.com/user-attachments/assets/8bb5c23d-119a-4130-88e8-f03746d4801a)
 <h3 align="center">A passionate Computer Engineer from Nepal</h3>
 <img align=“right”alt="coding"width=“400”src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Tbgw_5ZbCoUN-pBdUlGPmHRMFMg72S5ed7DVrYVh2U27CjfuM-3DoIU6poxS210uD24&usqp=CAU”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-singh&label=Profile%20views&color=0e75b6&style=flat" alt="jay-singh" /> </p>
